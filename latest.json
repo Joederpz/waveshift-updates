@@ -1,1 +1,5 @@
-{"version": "0.1.1", "url": "", "notes": "Tempo ramp, effects editing after recording, build number."}
+{
+  "version": "0.1.1",
+  "url": "https://drive.google.com/drive/folders/1d7jCjRqdueVfJNHAg_iT3ip2vZe2MmmP",
+  "notes": "WaveShift 0.1.1 (build 26)\n\nNew in the editor:\n- Tempo lane: pick Tempo ±% in the lane menu and draw a deck's pitch with points.\n- Tempo ramp: glide a clip from one BPM to another.\n- Edit Beat FX and Sound Color FX after the set: move, resize, switch type or delete them.\n- Snap clip edges and points to the beat grid (hold Alt to drag freely).\n- Browse for a set file anywhere on your PC from Open session.\n- Timeline scrollbar.\n\nAlso:\n- The version and build number show in settings. Please quote them in bug reports.\n- WaveShift now tells you when a new version is out (you can turn this off in settings).\n- Fixed an error when splitting a clip, and the waveform no longer stretches while a trimmed clip updates."
+}
